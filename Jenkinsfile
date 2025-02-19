@@ -1,4 +1,5 @@
 pipeline{
+    
     agent any{
         label 'java_slave_node'
     }
