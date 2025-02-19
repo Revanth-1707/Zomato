@@ -1,6 +1,6 @@
 pipeline{
     agent any{
-        label 'java_node'
+        label 'java_slave_node'
     }
     
     tools{
